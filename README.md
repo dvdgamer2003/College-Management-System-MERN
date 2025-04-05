@@ -1,5 +1,5 @@
 
-# Frontend module is under pushing will be available to see within fe minutes
+# Frontend module is under git push phase will be available to see within few minutes
 
 # 🎓 College Management System
 
