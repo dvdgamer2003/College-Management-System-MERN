@@ -34,7 +34,7 @@ A full-stack web application built using the **MERN Stack** (MongoDB, Express.js
 | **Backend**  | Node.js, Express.js                    |
 | **Database** | MongoDB (Mongoose ODM)                 |
 | **Authentication** | JWT-based secure auth            |
-| **Payment Gateway** | Razorpay/Stripe (integrated)    |
+
 
 
 ## 🧑‍💻 Installation
