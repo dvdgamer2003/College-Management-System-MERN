@@ -42,7 +42,7 @@ A full-stack web application built using the **MERN Stack** (MongoDB, Express.js
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/college-management-system.git
+git clone  https://github.com/KiranKPoojary/College-Management-System_MERN-Stack.git
 cd college-management-system
 ```
 
@@ -64,7 +64,7 @@ MONGO_URI=your_mongodb_connection_string
 ### 3. Setup Frontend
 
 ```bash
-cd ../frontend
+cd frontend
 npm install
 npm start
 ```
