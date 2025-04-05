@@ -1,5 +1,4 @@
 # College-Management-System_MERN-Stack
-A full-stack web application built with the MERN stack (MongoDB, Express, React, Node.js) to manage students, teachers, classes, subjects, attendance, and fees. It features role-based login for Admins, Students, and Teachers to streamline college operations.
-## Contributors
-- [@KiranKPoojary](https://github.com/KiranKPoojary)
-- [@yogesham229](https://github.com/yogesham229)
+
+
+A full-stack web application built using the MERN stack (MongoDB, Express, React, Node.js) to handle the management of students, teachers, classes, subjects, attendance, and fee records. It incorporates role-based access for Admins, Teachers, and Students to ensure smooth and organized college operations.
