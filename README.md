@@ -74,7 +74,7 @@ The client will start on \`http://localhost:3000\`
 
 ## 💳 Payment Integration
 
-- Razorpay is integrated for real-time fee payments.
+- Razorpay can be integrated for real-time fee payments.
 - On successful payment, the student's \`fees.status\` will be updated to \`"Paid"\` in MongoDB, and a transaction ID is stored.
 
 ---
@@ -88,12 +88,6 @@ The client will start on \`http://localhost:3000\`
 | Student | View data and pay fees                           |
 
 
-
-## 📸 Screenshots
-
-> Add your app screenshots here
-
----
 
 ## 🧪 Future Enhancements
 
