@@ -24,7 +24,7 @@ A full-stack web application built using the **MERN Stack** (MongoDB, Express.js
 - Pay fees online (Razorpay integration)
 - Download receipts and check due dates
 
----
+
 
 ## 🛠️ Tech Stack
 
