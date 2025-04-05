@@ -1,3 +1,6 @@
+
+# Frontend module is under pushing will be available to see within fe minutes
+
 # 🎓 College Management System
 
 A full-stack web application built using the **MERN Stack** (MongoDB, Express.js, React.js, Node.js) to manage the operations of a college including **Students**, **Teachers**, **Classes**, **Subjects**, **Attendance**, and **Fee Management**. The system includes **role-based access control** for Admins, Teachers, and Students, ensuring a secure and efficient workflow.
