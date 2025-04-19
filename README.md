@@ -92,9 +92,12 @@ The client will start on \`http://localhost:3000\`
 
 ## 🧪 Future Enhancements
 
-- PDF generation for fee receipts and results
-- Admin dashboard with data visualizations
-- Email/SMS notifications for due fees and attendance
-- Parent login portal
+Generate PDFs for fee receipts and academic results
+
+Interactive admin dashboard featuring data visualizations
+
+Automated email and SMS alerts for pending fees and attendance updates
+
+Dedicated login portal for parents to monitor student information
 
 
