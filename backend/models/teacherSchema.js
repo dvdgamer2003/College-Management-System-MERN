@@ -22,6 +22,7 @@ const teacherSchema = new mongoose.Schema({
         type: mongoose.Schema.Types.ObjectId,
         ref: 'admin',
         required: true,
+        // default: "PCCOER"
     },
     teachSubject: {
         type: mongoose.Schema.Types.ObjectId,

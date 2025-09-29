@@ -28,25 +28,23 @@ const ChooseUser = ({ visitor }) => {
   const navigateHandler = (user) => {
     if (user === "Admin") {
         navigate('/Adminlogin');
-      }
-    }
-
-    else if (user === "Student") {
-      if (visitor === "guest") {
-        const rollNum = "1"
-        const studentName = "Dipesh Awasthi"
-        const fields = { rollNum, studentName, password }
-        setLoader(true)
-        dispatch(loginUser(fields, user))
-      }
-      else {
-        navigate('/Studentlogin');
-      }
+    } else if (user === "Student") {
+        if (visitor === "guest") {
+            const rollNum = "1";
+            const studentName = "Dipesh Awasthi";
+            const collegeName = "PCCOER"; // already set
+            const fields = { rollNum, studentName, collegeName, password }
+            setLoader(true)
+            dispatch(loginUser(fields, user))
+        }
+        else {
+          navigate('/Studentlogin');
+        }
     }
 
     else if (user === "Teacher") {
       if (visitor === "guest") {
-        const email = "tony@12"
+        const email = "divyeshravane21543@gmail.com"
         const fields = { email, password }
         setLoader(true)
         dispatch(loginUser(fields, user))

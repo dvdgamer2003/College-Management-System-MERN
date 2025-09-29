@@ -4,10 +4,10 @@ import { Container, Grid, Box, Typography, Card, CardContent } from '@mui/materi
 import styled, { keyframes } from 'styled-components';
 import Carousel from 'react-material-ui-carousel';
 import { School, People, Event } from '@mui/icons-material';
-import BMSIT1 from '../assets/bmsit1.jpg'; 
-import BMSIT2 from '../assets/bmsit2.jpg'; 
-import BMSIT3 from '../assets/bmsit3.jpg'; 
-import BMSIT4 from '../assets/bmsit4.jpg';
+import BMSIT1 from '../assets/PCCOER-1.jpg'; 
+import BMSIT2 from '../assets/PCCOER-2.jpg'; 
+import BMSIT3 from '../assets/PCCOER-1.jpg'; 
+import BMSIT4 from '../assets/PCCOER-2.jpg';
 import { LightPurpleButton } from '../components/buttonStyles';
 
 const images = [BMSIT1, BMSIT2, BMSIT3,BMSIT4];
@@ -31,7 +31,7 @@ const Homepage = () => {
                         <CardContent>
                             <StyledTitle>
                                 Welcome to <br /> 
-                                <span style={{ color: "#6A0DAD" }}>BMSIT College</span> <br />
+                                <span style={{ color: "#6A0DAD" }}>PCCOER STUDENT MANAGEMENT</span> <br />
                                 Management System
                             </StyledTitle>
 
@@ -91,7 +91,7 @@ const Homepage = () => {
             <ContactSection className="fade-in">
                 <Typography variant="h4" gutterBottom>Contact Us</Typography>
                 <Typography variant="body1">
-                    Have questions? Reach out to us at: <strong>neerjeddukiran@gmail.com</strong>
+                    Have questions? Reach out to us at: <strong>divyeshravane21543@gmail.com</strong>
                 </Typography>
             </ContactSection>
         </MainContainer>
